@@ -1,0 +1,29 @@
+/* CSS para la página de login (index.php) */
+
+body {
+     color: black; 
+     font-family: arial; 
+     font-size: 16px;
+     text-align: center;
+   	 background: #27ae60;
+}
+
+h1 {
+	font-family: verdana;
+    color: #030b24;
+    text-shadow: 2px 1px #b00202;
+    font-size: 40px;
+	margin: 6px;
+}
+
+.documento {  
+    position: absolute;  
+    top: 45%;  
+    left: 50%;  
+    width: 28em;  
+    height: 25em;  
+    margin-top: -12em;
+    margin-left: -14em; 
+    border: 1px solid #ccc;  
+    background-color: #2980b9;  
+}
