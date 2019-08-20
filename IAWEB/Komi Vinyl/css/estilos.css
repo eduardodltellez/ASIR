@@ -1,0 +1,172 @@
+/* Cuerpo */
+
+/*Div del que muestra el usuario logueado*/
+#log_usu {
+    color:#002065; 
+    font-weight: bold; 
+    height: 14px;
+    text-align: right;
+}
+
+body {
+     color: black; 
+     font-family: arial; 
+     font-size: 16px; 
+     }
+
+/* div que afecta al todo el documento */
+.todo_documento {
+   text-align: center;
+   background: #ebebeb;
+}
+
+/* h1 y h2 */     
+h1 {
+    color: #030b24;
+    text-shadow: 2px 1px #b00202;
+    font-size: 40px;
+	margin: 6px;
+    }
+
+h2 {
+    color: #020f6d;
+}
+
+/* Cabecera */   
+.cabeceraprincipal {
+    width: 100%;
+    height: 230px;
+    background: #7D9FFD;
+    }
+
+.cabeceraprincipal img {
+    height: 70%;
+	width: 21%;
+	border-radius: 100px;
+}
+
+/* Menú principal */
+ul {
+font-size: 21px;
+font-weight: bold;
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #74f3a0;
+}
+
+li {
+display: inline-block;
+text-align: center;
+width: 24%;
+}
+
+li a {
+display: block;
+color: #040e3f;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+li a:hover {
+    background-color: #b70202;
+}
+
+/* Menú admin discos */
+#admin_discos {
+font-size: 14px;
+font-weight: bold;
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #acc0fa;
+}
+
+#admin_discos li {
+display: inline-block;
+text-align: center;
+width: 24%;
+}
+
+#admin_discos li a {
+display: block;
+color: #011035;
+text-align: center;
+padding: 8px 10px;
+text-decoration: none;
+}
+
+#admin_discos li a:hover {
+    background-color: #b70202;
+}
+
+/* Cuerpo variable */	
+.cuerpo {
+    width: 100%;
+    margin: 0;
+}
+
+/* Cuerpo Inicio */
+#dj1 {
+    width:500px;
+    height:200px;
+}
+
+/* Tablas de la sección Discos */
+.tablas_discos {
+    margin: 0 auto;
+}
+
+.tablas_discos th {
+    font-size: 18px;
+}
+
+.tablas_discos td {
+    text-align: center;
+    vertical-align: middle;
+	height: 80px;
+	font-size: 18px;
+}
+
+.tablas_discos tr:hover:not(#indicador) { /*los tr de la tabla que no son el indicador*/
+    background-color: #97ffaf;
+}
+
+.tablas_discos td:hover {
+    background-color: #5dc3fd;
+}
+
+.tablas_discos img:hover:not(#disco) {
+	border: solid 1px #133eff;
+	border-radius: 8px;
+}
+
+.icono_carro {
+	width: 127px;
+}
+
+/* Píe de página */
+.footer {
+    text-align: center;
+    width: 100%;
+    background: #7D9FFD;
+    padding-top: 0.5px;
+}
+	
+#rss img{
+    vertical-align: middle;
+    height: 20px;
+}
+
+#atom img {
+	vertical-align: middle;
+	height: 20.5px;
+}
+
+#w3s img {
+    height: 25px;
+    width: 65px;
+}

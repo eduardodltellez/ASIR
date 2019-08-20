@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0">
+
+<channel>
+ 
+    <title>Komi Vinyl</title>
+    <link>https://edukomi.000webhostapp.com/index.html</link>
+    
+    <image>
+        <url>../img/dj1.jpg</url>
+        <title>Komi Vinyl</title>
+        <link>https://edukomi.000webhostapp.com/index.html</link>
+    </image>
+    
+    <description>Noticias sobre los nuevos lanzamientos esta semana</description>
+    
+        <item>
+            <title>Lanzamiento de nuevo disco de Paco Osuna por Print-Records</title>
+            <link>https://www.beatport.com/</link>
+            <description>"Neque punio quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."</description>
+        </item>
+        
+         <item>
+            <title>Lanzamiento de nuevo disco de Amelie Lens por Code-Records</title>
+            <link>https://www.beatport.com/</link>
+            <description>"Neque punio quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."</description>
+        </item>
+        
+         <item>
+            <title>Lanzamiento de nuevo disco de Julian Jeweil por Drumcode-Records</title>
+            <link>https://www.beatport.com/</link>
+            <description>"Neque punio quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."</description>
+        </item>
+    
+</channel>
+
+</rss>

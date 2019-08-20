@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
+
+<title>Komi Vinyl</title>
+<link href="https://edukomi.000webhostapp.com/index.html" rel="alternate" type="text/html"/>
+
+<updated>2018-03-15</updated>
+<author>
+<name>Eduardo de Lamo Tellez</name>
+</author>
+<id>tag:example.com,2018-03-15:/support/products</id>
+
+<entry>
+<title>Lanzamiento de nuevo disco de Paco Osuna por Print-Records</title>
+<id>1a</id>
+<link href="https://www.beatport.com/"/>
+<summary>"Neque punio quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."</summary>
+<updated>2018-03-15T01:30:02Z</updated> 
+<g:image_link>https://www.beatport.com/</g:image_link> 
+<g:price>15</g:price> 
+<g:condition>new</g:condition> 
+</entry>
+
+<entry>
+<title>Lanzamiento de nuevo disco de Amelie Lens por Code-Records</title>
+<id>2a</id>
+<link href="https://www.beatport.com/"/>
+<summary>"Neque punio quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."</summary>
+<updated>2018-03-10T21:30:02Z</updated> 
+<g:image_link>https://www.beatport.com/</g:image_link> 
+<g:price>20</g:price> 
+<g:condition>new</g:condition> 
+</entry>
+
+<entry>
+<title>Lanzamiento de nuevo disco de Julian Jeweil por Drumcode-Records</title>
+<id>3a</id>
+<link href="https://www.beatport.com/"/>
+<summary>"Neque punio quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."</summary>
+<updated>2018-03-05T14:30:02Z</updated> 
+<g:image_link>https://www.beatport.com/</g:image_link> 
+<g:price>25</g:price> 
+<g:condition>new</g:condition> 
+</entry>
+
+</feed>
